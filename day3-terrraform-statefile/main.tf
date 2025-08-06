@@ -2,7 +2,7 @@
 
 # Step 1: Create IAM Role
 resource "aws_iam_role" "ec2_role" {
-  name = "ec2-instance-role"
+  name = "ec2-instance-rule"
 
   assume_role_policy = jsonencode({
     Version = "2012-10-17",
