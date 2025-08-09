@@ -1,0 +1,5 @@
+aws_vpc = "10.0.0.0/16"
+aws_subnet_public = "10.0.0.0/24"
+aws_subnet_private = "10.0.1.0/24"
+ami_id = "ami-04e08e36e17a21b56"
+aws_instance = "t3.micro"
