@@ -10,6 +10,6 @@ resource "aws_instance" "name" {
 
 variable "ec2" {
     type = list(string)
-    default = [ "dev", "test" , "prod",  ]
+    default = [ "dev",   "prod",  ]
   
 }
