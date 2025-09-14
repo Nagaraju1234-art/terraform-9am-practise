@@ -1,2 +1,2 @@
-ami-id = "ami-08a6efd148b1f7504"
+ami-id = "ami-0b09ffb6d8b58ca91"
 instance_type = "t2.nano"
